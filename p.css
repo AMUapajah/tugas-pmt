@@ -1,0 +1,55 @@
+header {
+  background-color: #535c91;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.jdl {
+  text-align: center;
+  padding-right: 635px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: black;
+  text-decoration-line: none;
+  margin-right: 20px;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.ak {
+  width: 300px;
+  padding-top: 50px;
+  padding-left: 520px;
+}
+
+.ktk {
+  padding-top: 40px;
+  padding-bottom: 70px;
+}
+
+.ktk1 {
+  width: 500px;
+  height: 300px;
+  font-size: 50px;
+  background-color: #bddde4;
+}
+
+.kmpl {
+  padding-top: 100px;
+  background-color: #eeeeee;
+  width: auto;
+  display: flex;
+  height: 300px;
+  padding-left: 430px;
+  padding-bottom: 50px;
+}
